@@ -1,3 +1,33 @@
+### 🎮 NEXUS GAMING — LIVE PROJECT
+
+<p align="center">
+  <a href="https://dgravanbhaii.github.io/Nexus-Gaming/">
+    <img src="https://img.shields.io/badge/PLAY%20NOW-NEXUS%20GAMING-8A2BE2?style=for-the-badge&logo=gamepad&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  **An interactive gaming web experience built and published by Ravan.**
+</p>
+
+| Project Details | Information |
+|---|---|
+| 🎮 Project | Nexus Gaming |
+| 👨‍💻 Developer | Ravan |
+| 🌐 Hosting | GitHub Pages |
+| 🚀 Status | Live |
+| 🔗 Website | [Visit Nexus Gaming](https://dgravanbhaii.github.io/Nexus-Gaming/) |
+| 💻 Source Code | [GitHub Repository](https://github.com/dgravanbhaii/Nexus-Gaming) |
+
+**Explore the gaming experience and discover the project!**
+
+<p align="center">
+  <a href="https://dgravanbhaii.github.io/Nexus-Gaming/">
+    <b>🚀 EXPLORE NEXUS GAMING</b>
+  </a>
+</p>
+
+
 # 👑 【ＤＧ】ʀᴀᴠᴀɴ 🜲| Developer • Automation Engineer • AI Explorer
 
 <p align="center">
