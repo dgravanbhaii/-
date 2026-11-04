@@ -230,7 +230,9 @@ I'm exploring the technologies behind intelligent applications and modern AI sys
 <p align="center">
   <img width="95%" src="https://streak-stats.demolab.com?user=dgravanbhaii&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dgravanbhaii&theme=dark" alt="dgravanbhaii's Activity Radar Chart" />
+</p>
 ---
 
 ## 🐍 CONTRIBUTION ACTIVITY
