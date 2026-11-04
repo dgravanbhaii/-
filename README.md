@@ -225,10 +225,7 @@ I'm exploring the technologies behind intelligent applications and modern AI sys
   />
 </p>
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dgravanbhaii&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgravanbhaii&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+
 
 <p align="center">
   <img width="95%" src="https://streak-stats.demolab.com?user=dgravanbhaii&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
