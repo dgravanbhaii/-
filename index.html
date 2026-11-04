@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My GitHub Contribution Snake</title>
+    <style>
+        body {
+            background-color: #0d1117;
+            color: #c9d1d9;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+        h1 {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+        .container {
+            max-width: 900px;
+            width: 100%;
+            padding: 20px;
+            text-align: center;
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+        }
+        img {
+            width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🐍 My GitHub Contribution Snake</h1>
+        <!-- Light/Dark adaptive snake image pointing to your output branch -->
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dgravanbhaii/-/output/github-contribution-grid-snake-dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dgravanbhaii/-/output/github-contribution-grid-snake.svg">
+            <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/dgravanbhaii/-/output/github-contribution-grid-snake.svg">
+        </picture>
+    </div>
+</body>
+</html>
