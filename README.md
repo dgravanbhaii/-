@@ -215,6 +215,16 @@ I'm exploring the technologies behind intelligent applications and modern AI sys
 
 ## 📊 GITHUB ANALYTICS
 
+<h2 align="center">⚡ GITHUB STATS</h2>
+
+<p align="center">
+  <img
+    src="assets/github-stats-banner.png"
+    width="100%"
+    alt="GitHub Stats - 【ＤＧ】ʀᴀᴠᴀɴ 🜲"
+  />
+</p>
+
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=dgravanbhaii&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgravanbhaii&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
