@@ -235,11 +235,39 @@ I'm exploring the technologies behind intelligent applications and modern AI sys
 
 ## 🐍 CONTRIBUTION ACTIVITY
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dgravanbhaii/dgravanbhaii/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
-</p>
+name: Generate Contribution Snake
 
----
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: dgravanbhaii
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish Snake Animation
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ## 🤝 CONNECT WITH ME
 
