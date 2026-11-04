@@ -1,141 +1,186 @@
-
-# 👑 【ＤＧ】ʀᴀᴠᴀɴ 🜲| Developer • Automation Engineer • AI Explorer
+ 
+<!-- ===================================================== -->
+<!--                 RAVAN | GITHUB PROFILE                -->
+<!-- ===================================================== -->
 
 <p align="center">
-  <img src="assets/profile-banner.png" width="100%" alt="Ravan Developer Portfolio Banner"/>
+  <img src="assets/profile-banner.png"
+       width="100%"
+       alt="Ravan Developer Portfolio Banner"/>
 </p>
 
-<h1 align="center">⚡ BUILD. AUTOMATE. INNOVATE. ⚡</h1>
+<h1 align="center">Hey there, I'm Ravan 👋</h1>
+
+<h3 align="center">
+  🚀 Telegram Bot Developer | Web Developer | AI & ML Enthusiast
+</h3>
 
 <p align="center">
-  <b>Turning Ideas Into Powerful Digital Solutions</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Powerful+Telegram+Bots;Creating+Dynamic+Web+Experiences;Developing+Automation+Solutions;Exploring+AI%2C+ML+%26+Deep+Learning;Turning+Ideas+Into+Digital+Reality" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/dgravanbhaii">
-    <img src="https://img.shields.io/badge/GitHub-dgravanbhaii-181717?style=for-the-badge&logo=github"/>
+    <img src="https://komarev.com/ghpvc/?username=dgravanbhaii&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
   </a>
-  <a href="https://t.me/DGRavanbhai">
-    <img src="https://img.shields.io/badge/Telegram-Connect-26A5E4?style=for-the-badge&logo=telegram"/>
-  </a>
-  <a href="https://www.instagram.com/DGRavanbhai">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Telegram+Bot+Developer;Web+Application+Builder;AI+%2F+ML+Enthusiast;Automation+%26+Backend+Developer;Always+Building+Something+New"/>
+  <img src="https://img.shields.io/github/followers/dgravanbhaii?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/dgravanbhaii?label=Stars&style=for-the-badge&color=yellow" alt="Stars"/>
 </p>
 
 ---
 
 ## 👨‍💻 ABOUT ME
 
-Hello! I'm **Ravan**, a developer passionate about engineering useful digital products, intelligent automation, and modern web experiences.
+I'm a developer passionate about building useful digital products, automation systems, and intelligent applications.
 
-I enjoy transforming ideas into functional applications, building Telegram automation systems, developing websites, and exploring artificial intelligence.
+- 🤖 Developing Telegram bots and group management systems.
+- 🌐 Building static and dynamic websites.
+- 🎮 Exploring interactive gaming website experiences.
+- 🧠 Exploring Artificial Intelligence and Machine Learning.
+- ⚙️ Interested in backend development and automation.
+- 💡 Always learning, experimenting, and building new ideas.
 
-- 🤖 Developing Telegram bots and automation systems.
-- 🌐 Building dynamic and static websites.
-- 🎮 Exploring gaming-oriented web experiences.
-- 🧠 Exploring AI, Machine Learning and Deep Learning.
-- ⚙️ Working with backend development and databases.
-- 🚀 Building, testing, deploying and improving digital products.
-- 💡 Learning new technologies through practical implementation.
-
-**My philosophy:** Don't just write code. Build something that solves a problem.
+**My goal:** Turn creative ideas into practical digital solutions.
 
 ---
 
-## 🚀 PROJECT SHOWCASE
+## 🚀 WHAT I BUILD
 
-### 🤖 TELEGRAM BOT ECOSYSTEM
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Building Telegram bots with interactive interfaces, automation, moderation, and management capabilities.
+### 🤖 Telegram Bot Development
 
-| Project | Description | Repository |
+- Group management bots
+- Group protection systems
+- Force subscription bots
+- Music bots
+- AI-powered bot experiments
+- OSINT and automation tools
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Web Development
+
+- Static websites
+- Dynamic web applications
+- Gaming websites
+- Portfolio websites
+- Educational platforms
+- Responsive user interfaces
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 AI & Machine Learning
+
+- Artificial Intelligence exploration
+- Machine Learning concepts
+- Deep Learning exploration
+- NLP and intelligent automation
+- AI-powered application experiments
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Backend & Automation
+
+- Python development
+- API integrations
+- Database management
+- Workflow automation
+- Server-side applications
+- GitHub-based deployments
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤖 TELEGRAM BOT PROJECTS
+
+<p align="center">
+  <b>Building Telegram bots focused on automation, music, community management, and intelligent features.</b>
+</p>
+
+<table>
+<tr>
+<th>PROJECT</th>
+<th>DESCRIPTION</th>
+<th>REPOSITORY</th>
+</tr>
+<tr>
+<td>🎵 Repomusic</td>
+<td>Telegram music bot project</td>
+<td><a href="https://github.com/dgravanbhaii/Repomusic">View Project</a></td>
+</tr>
+<tr>
+<td>🛡️ Force Subscribe</td>
+<td>Telegram force subscription bot</td>
+<td><a href="https://github.com/dgravanbhaii/force_to_join">View Project</a></td>
+</tr>
+<tr>
+<td>👥 Lucky Group Management</td>
+<td>Telegram group management project</td>
+<td><a href="https://github.com/dgravanbhaii/Lucky---Group-Management-Bot">View Project</a></td>
+</tr>
+<tr>
+<td>🧠 Telegram AI Project</td>
+<td>AI-focused Telegram bot project</td>
+<td><a href="https://github.com/dgravanbhaii/Telegram-AI-Project-Bot">View Project</a></td>
+</tr>
+<tr>
+<td>🎧 ShrutiMusic</td>
+<td>Telegram music bot project</td>
+<td><a href="https://github.com/dgravanbhaii/ShrutiMusic">View Project</a></td>
+</tr>
+<tr>
+<td>🔐 Session String</td>
+<td>Telegram session generation project</td>
+<td><a href="https://github.com/dgravanbhaii/Session-String1">View Project</a></td>
+</tr>
+</table>
+
+---
+
+## 🌐 WEB DEVELOPMENT SHOWCASE
+
+| PROJECT | CATEGORY | LINK |
 |---|---|---|
-| 🎵 Repomusic | Music streaming and voice chat bot | [Explore](https://github.com/dgravanbhaii/Repomusic) |
-| 🛡️ Force Subscribe | Channel membership verification | [Explore](https://github.com/dgravanbhaii/force_to_join) |
-| 👮 Lucky Group Management | Telegram group management | [Explore](https://github.com/dgravanbhaii/Lucky---Group-Management-Bot) |
-| 🧠 Telegram AI Project | AI-focused Telegram bot project | [Explore](https://github.com/dgravanbhaii/Telegram-AI-Project-Bot) |
-| 🎧 ShrutiMusic | Telegram music bot project | [Explore](https://github.com/dgravanbhaii/ShrutiMusic) |
-| 🔐 Session String | Telegram session utility | [Explore](https://github.com/dgravanbhaii/Session-String1) |
-
-### 🌐 WEB DEVELOPMENT & DIGITAL DELIVERY
-
-Creating web experiences with a focus on usability, responsive layouts and functional backend systems.
-
-**Project categories:**
-
-- Dynamic websites and web applications.
-- Static business and informational websites.
-- Educational portals and content management.
-- Gaming-focused website experiences.
-- Authentication and registration systems.
-- Backend integrations and database-driven applications.
-
-**Featured development work**
-
-| Project | Focus |
-|---|---|
-| DG Education Society | Education portal and learning resources |
-| Static Web Projects | Responsive informational websites |
-| Dynamic Web Projects | Backend-powered web applications |
-| Gaming Web Experience | Gaming-oriented website design and functionality |
-
-*Individual project links and screenshots can be added as their public repositories or live URLs become available.*
+| DG Education Society | Educational Portal | Coming Soon |
+| Nexus Gaming | Gaming Website | [Live Demo](https://dgravanbhaii.github.io/Nexus-Gaming/) |
+| Static Web Projects | Web Development | Explore Repositories |
+| Dynamic Web Projects | Web Applications | Explore Repositories |
 
 ---
-### 🎮 NEXUS GAMING — LIVE PROJECT
+
+## 🧠 AI, MACHINE LEARNING & DEEP LEARNING
+
+I'm exploring the technologies behind intelligent applications and modern AI systems.
+
+**Areas of interest:**
+
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+- Deep Learning (DL)
+- Natural Language Processing (NLP)
+- Intelligent Chatbots
+- Automation and Predictive Systems
+
+**Technologies I'm exploring:**
 
 <p align="center">
-  <a href="https://dgravanbhaii.github.io/Nexus-Gaming/">
-    <img src="https://img.shields.io/badge/PLAY%20NOW-NEXUS%20GAMING-8A2BE2?style=for-the-badge&logo=gamepad&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 </p>
-
-<p align="center">
-  **An interactive gaming web experience built and published by Ravan.**
-</p>
-
-| Project Details | Information |
-|---|---|
-| 🎮 Project | Nexus Gaming |
-| 👨‍💻 Developer | Ravan |
-| 🌐 Hosting | GitHub Pages |
-| 🚀 Status | Live |
-| 🔗 Website | [Visit Nexus Gaming](https://dgravanbhaii.github.io/Nexus-Gaming/) |
-| 💻 Source Code | [GitHub Repository](https://github.com/dgravanbhaii/Nexus-Gaming) |
-
-**Explore the gaming experience and discover the project!**
-
-<p align="center">
-  <a href="https://dgravanbhaii.github.io/Nexus-Gaming/">
-    <b>🚀 EXPLORE NEXUS GAMING</b>
-  </a>
-</p>
-
-
-## 🧠 ARTIFICIAL INTELLIGENCE | ML | DEEP LEARNING
-
-Exploring the next generation of intelligent applications.
-
-My AI development interests include:
-
-- AI-powered Telegram bots.
-- Intelligent chatbot experiences.
-- Natural Language Processing (NLP).
-- Machine Learning model integration.
-- Deep Learning and Neural Networks.
-- Automated information processing.
-- Intelligent workflow automation.
-
-**Technologies and frameworks to explore and showcase as implemented:**
-
-`Python` · `Scikit-learn` · `TensorFlow` · `PyTorch` · `Keras` · `Transformers` · `NLP`
-
-> My goal is to move beyond rule-based automation and develop intelligent systems capable of learning, processing information and delivering useful results.
 
 ---
 
@@ -144,25 +189,25 @@ My AI development interests include:
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,bash"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,bash&theme=dark"/>
 </p>
 
-### Backend & Frameworks
+### Frameworks & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=flask,nodejs,express,sqlite,mongodb"/>
+  <img src="https://skillicons.dev/icons?i=flask,nodejs,express&theme=dark"/>
 </p>
 
-### AI & Data Technologies
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+  <img src="https://skillicons.dev/icons?i=sqlite,mongodb,mysql&theme=dark"/>
 </p>
 
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,heroku"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,heroku&theme=dark"/>
 </p>
 
 ---
@@ -170,63 +215,69 @@ My AI development interests include:
 ## 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dgravanbhaii&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgravanbhaii&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dgravanbhaii&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgravanbhaii&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=dgravanbhaii&theme=tokyonight&hide_border=true"/>
-</p>
-
-### Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dgravanbhaii&theme=tokyo-night&hide_border=true&area=true"/>
+  <img width="95%" src="https://streak-stats.demolab.com?user=dgravanbhaii&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+## 🐍 CONTRIBUTION ACTIVITY
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dgravanbhaii/dgravanbhaii/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/dgravanbhaii/dgravanbhaii/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
 </p>
 
-*Requires a GitHub Actions workflow to generate the contribution animation.*
-
 ---
 
-## 🎯 WHAT I'M WORKING TOWARDS
-
-- Building scalable Telegram bot ecosystems.
-- Developing intelligent AI-powered automation.
-- Improving machine learning and deep learning skills.
-- Delivering responsive and dynamic web applications.
-- Exploring gaming platforms and interactive experiences.
-- Creating useful open-source developer tools.
-
----
-
-## 🤝 LET'S CONNECT
+## 🤝 CONNECT WITH ME
 
 <p align="center">
   <a href="https://github.com/dgravanbhaii">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://t.me/DGRavanbhai">
-    <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/DGRavanbhai">
-    <img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram"/>
+  <a href="https://instagram.com/DGRavanbhai">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  ⭐ If you find my projects useful, consider giving them a star!
+  💬 Open to collaboration, interesting projects, and learning opportunities.
 </p>
 
-<h3 align="center">⚡ Code With Purpose. Build With Passion. Innovate Without Limits. ⚡</h3>
+---
+
+<h2 align="center">🎮 NEXUS GAMING — PROJECT SHOWCASE</h2>
 
 <p align="center">
-  <b>© RAVAN | Building The Future One Project At A Time.</b>
+  <a href="https://dgravanbhaii.github.io/Nexus-Gaming/">
+    <img src="assets/nexus-gaming.png"
+         width="100%"
+         alt="Nexus Gaming Website Preview"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>AN INTERACTIVE GAMING WEB EXPERIENCE</b>
+  <br/>
+  Designed and published by Ravan.
+</p>
+
+<p align="center">
+  <a href="https://dgravanbhaii.github.io/Nexus-Gaming/">
+    <img src="https://img.shields.io/badge/🌐_VISIT_NEXUS_GAMING-00D9FF?style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="https://github.com/dgravanbhaii/Nexus-Gaming">
+    <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my GitHub profile. Let's build something extraordinary together! 🚀</i>
 </p>
