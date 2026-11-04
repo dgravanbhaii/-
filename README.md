@@ -3,31 +3,32 @@
 <!--                 RAVAN | GITHUB PROFILE                -->
 <!-- ===================================================== -->
 
+👑 RAVAN | Developer • Automation Engineer • AI Explorer
 <p align="center">
-  <img src="assets/profile-banner.png"
-       width="100%"
-       alt="Ravan Developer Portfolio Banner"/>
+  <img src="assets/profile-banner.png" width="100%" alt="Ravan Developer Portfolio Banner"/>
 </p>
 
-<h1 align="center">Hey there, I'm Ravan 👋</h1>
-
-<h3 align="center">
-  🚀 Telegram Bot Developer | Web Developer | AI & ML Enthusiast
-</h3>
+<h1 align="center">⚡ BUILD. AUTOMATE. INNOVATE. ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Powerful+Telegram+Bots;Creating+Dynamic+Web+Experiences;Developing+Automation+Solutions;Exploring+AI%2C+ML+%26+Deep+Learning;Turning+Ideas+Into+Digital+Reality" alt="Typing SVG" />
+  <b>Turning Ideas Into Powerful Digital Solutions</b>
 </p>
 
 <p align="center">
   <a href="https://github.com/dgravanbhaii">
-    <img src="https://komarev.com/ghpvc/?username=dgravanbhaii&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://img.shields.io/badge/GitHub-dgravanbhaii-181717?style=for-the-badge&logo=github"/>
   </a>
-  <img src="https://img.shields.io/github/followers/dgravanbhaii?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/dgravanbhaii?label=Stars&style=for-the-badge&color=yellow" alt="Stars"/>
+  <a href="https://t.me/DGRavanbhai">
+    <img src="https://img.shields.io/badge/Telegram-Connect-26A5E4?style=for-the-badge&logo=telegram"/>
+  </a>
+  <a href="https://www.instagram.com/DGRavanbhai">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"/>
+  </a>
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Telegram+Bot+Developer;Web+Application+Builder;AI+%2F+ML+Enthusiast;Automation+%26+Backend+Developer;Always+Building+Something+New"/>
+</p>
 
 ## 👨‍💻 ABOUT ME
 
