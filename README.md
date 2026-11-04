@@ -235,6 +235,16 @@ I'm exploring the technologies behind intelligent applications and modern AI sys
 
 ## 🐍 CONTRIBUTION ACTIVITY
 
+<h2 align="center">🐍 CONTRIBUTION ACTIVITY</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/dgravanbhaii/dgravanbhaii/output/github-contribution-grid-snake.svg"
+    alt="Contribution Snake Animation"
+    width="100%"
+  />
+</p>
+
 name: Generate Contribution Snake
 
 on:
