@@ -1,4 +1,4 @@
-# 👑 RAVAN | Developer • Automation Engineer • AI Explorer
+# 👑 【ＤＧ】ʀᴀᴠᴀɴ 🜲| Developer • Automation Engineer • AI Explorer
 
 <p align="center">
   <img src="assets/profile-banner.png" width="100%" alt="Ravan Developer Portfolio Banner"/>
