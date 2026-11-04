@@ -234,52 +234,45 @@ I'm exploring the technologies behind intelligent applications and modern AI sys
 ---
 
 ## 🐍 CONTRIBUTION ACTIVITY
+---
 
 <h2 align="center">🐍 CONTRIBUTION ACTIVITY</h2>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/dgravanbhaii/dgravanbhaii/output/github-contribution-grid-snake.svg"
-    alt="Contribution Snake Animation"
-    width="100%"
-  />
+  <b>Every contribution tells a story. Every commit moves forward.</b>
 </p>
 
-name: Generate Contribution Snake
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/dgravanbhaii/dgravanbhaii/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/dgravanbhaii/dgravanbhaii/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake Animation"
+      src="https://raw.githubusercontent.com/dgravanbhaii/dgravanbhaii/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+<p align="center">
+  <a href="https://github.com/dgravanbhaii?tab=overview&from=2026-01-01&to=2026-12-31">
+    <img src="https://img.shields.io/badge/VIEW-MY%20CONTRIBUTIONS-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-jobs:
-  generate:
-    permissions:
-      contents: write
+<p align="center">
+  <i>Code • Commit • Contribute • Repeat</i>
+  <br/>
+  <b>【ＤＧ】ʀᴀᴠᴀɴ 🜲</b>
+</p>
 
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: dgravanbhaii
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Publish Snake Animation
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-## 🤝 CONNECT WITH ME
+---## 🤝 CONNECT WITH ME
 
 <p align="center">
   <a href="https://github.com/dgravanbhaii">
